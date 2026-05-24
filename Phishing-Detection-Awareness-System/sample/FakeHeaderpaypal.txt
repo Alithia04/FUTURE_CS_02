@@ -1,0 +1,30 @@
+Return-Path: <security-alert@paypal-support.com>
+
+Received: from unknown (HELO mail.paypal-support.com) (185.224.135.41)
+ by mail.example.com with SMTP;
+ Tue, 05 Aug 2025 11:16:45 +0000
+
+Received-SPF: Fail (example.com: domain of paypal-support.com does not designate 185.224.135.41 as permitted sender)
+
+Authentication-Results: example.com;
+ dkim=fail header.i=@paypal-support.com;
+ spf=fail smtp.mailfrom=paypal-support.com;
+ dmarc=fail (p=REJECT) header.from=paypal-support.com
+
+Message-ID: <001a113000b5117a@paypal-support.com>
+
+Date: Tue, 05 Aug 2025 11:16:45 +0000
+
+From: PayPal Security <security-alert@paypal-support.com>
+
+To: youremail@example.com
+
+Subject: Urgent: Suspicious Activity Detected on Your PayPal Account
+
+MIME-Version: 1.0
+
+Content-Type: text/html; charset=UTF-8
+
+X-Originating-IP: [185.224.135.41]
+
+Reply-To: verify@paypal-security-check.com

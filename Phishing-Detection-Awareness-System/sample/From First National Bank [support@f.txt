@@ -1,0 +1,21 @@
+From: First National Bank [support@fnb-securelogin.com](mailto:support@fnb-securelogin.com)
+
+To: [youremail@example.com](mailto:youremail@example.com)
+
+Subject: Important Notice: Your Bank Account Has Been Locked
+
+Dear Valued Customer,
+
+We noticed multiple failed login attempts on your online banking account. As a security precaution, your account has been temporarily locked.
+
+To reactivate your account, please confirm your identity immediately by clicking the secure link below:
+
+http://fnb-verification-secure.com/login
+
+If you do not verify your account within 12 hours, your banking services may be permanently disabled.
+
+We apologize for any inconvenience and appreciate your cooperation.
+
+Sincerely,
+
+FNB Online Security Team

@@ -1,0 +1,30 @@
+Return-Path: <support@fnb-securelogin.com>
+
+Received: from unknown (HELO secure.fnb-securelogin.com) (203.91.112.57)
+ by bankmail.example.com with SMTP;
+ Wed, 06 Aug 2025 09:42:18 +0000
+
+Received-SPF: Fail (example.com: domain of fnb-securelogin.com does not designate 203.91.112.57 as permitted sender)
+
+Authentication-Results: example.com;
+ dkim=fail header.i=@fnb-securelogin.com;
+ spf=fail smtp.mailfrom=fnb-securelogin.com;
+ dmarc=fail (p=REJECT) header.from=fnb-securelogin.com
+
+Message-ID: <002b224100c6228b@fnb-securelogin.com>
+
+Date: Wed, 06 Aug 2025 09:42:18 +0000
+
+From: First National Bank <support@fnb-securelogin.com>
+
+To: youremail@example.com
+
+Subject: Important Notice: Your Bank Account Has Been Locked
+
+MIME-Version: 1.0
+
+Content-Type: text/html; charset=UTF-8
+
+X-Originating-IP: [203.91.112.57]
+
+Reply-To: verify@fnb-verification-secure.com
