@@ -3,7 +3,7 @@ Phishing Email Detection &amp; Awareness System
 ## Cyber Security Task 2 (2026)
 prepared by Boikarabelo Alithia Mogwerane
 
-#Project Overview
+# Project Overview
 This project focuses on phishing email detection, analysis and cybersecurity awareness. The objective of the task is to analyze phishing email samples, identify common phishing indicators, investigayte suspicious email headers, classify phishing risks and provide awareness guidelines to help users avoid phishing attacks. 
 
 Phishing attacks are one of the most common cyber threats used to steal passwords, banking information, OTPs and personal data through fake emails and malicious links. 
@@ -33,8 +33,7 @@ This project demonstrates how phishing emails use socila engineering techinques 
     | Tool  |  Purpose  |
     |-------|-----------|
     |Microsoft Word      | Documentation and reporting |
-    | Google Adim Toolbox Message Header Analyzer| Email
-    header analysis|
+    | Google Adim Toolbox Message Header Analyzer| Email header analysis|
     |GitHub Repositories | Educational phishing samples |
 
     ----
